@@ -1,7 +1,7 @@
 # inlinemochatest
 Inline Mocha tests template
 
-## Intr
+## Intro
 This project shows how you can put your Mocha unittests side-by-side in the files with the actual implementations.
 
 ## Development
